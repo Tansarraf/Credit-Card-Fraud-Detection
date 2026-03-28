@@ -26,7 +26,8 @@ The goal of this project is to build and evaluate machine learning models that c
 - Target variable:
   - `0` → Normal Transaction
   - `1` → Fraudulent Transaction
-Due to GitHub size limitations, the dataset is hosted externally.
+  - 
+- NOTE : Due to GitHub size limitations, the dataset is hosted externally.
 Download here : https://drive.google.com/file/d/1LQaHcbCQnxAN6CrIJrhylNQrXQ54SoD5/view?usp=sharing
 
 ---
